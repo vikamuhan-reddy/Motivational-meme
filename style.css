@@ -1,0 +1,40 @@
+/* This is for background color*/
+html{
+    background-color: azure;
+    text-align: center;
+
+}
+div{
+     border-width: 10px;
+    border-color: black;
+    border-style:double;
+
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 55px;
+    font-family: cursive;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+img{
+    margin-top: 60px;
+    border-width: 10px;
+    border-color: black;
+    border-style:double; 
+    height: 400px;
+    width:400px;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+footer{
+    margin: 30px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
